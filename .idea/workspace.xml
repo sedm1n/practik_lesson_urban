@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb7faaa0-745f-4948-a64d-294cf3814e3e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class2_hub_stud.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class3PhS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewars_taks/Maximum_Product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz_oop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz_oop_specmetod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz_operator_overloading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_classPH.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_oop_wallet.py" afterDir="false" />
+    <list default="true" id="bb7faaa0-745f-4948-a64d-294cf3814e3e" name="Changes" comment="task complete">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="c83d6a49-dce2-4eed-9d63-8c6dcedc2312" name=" Пройти встроенную обучалку в пайчарм" comment="task complete" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +28,20 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sedm1n&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b10e300c-2a35-4187-919b-467996faeeeb" />
+        <option name="url" value="https://github.com/sedm1n/practik_lesson_urban.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -56,6 +57,7 @@
     &quot;Python.class2_hub_stud.executor&quot;: &quot;Run&quot;,
     &quot;Python.class3.executor&quot;: &quot;Run&quot;,
     &quot;Python.class3PhS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dz_class_and_instance_attr.executor&quot;: &quot;Run&quot;,
     &quot;Python.dz_oop.executor&quot;: &quot;Run&quot;,
     &quot;Python.dz_oop_specmetod.executor&quot;: &quot;Run&quot;,
     &quot;Python.dz_operator_overloading.executor&quot;: &quot;Run&quot;,
@@ -69,6 +71,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/alesksei/PycharmProjects/practik_lesson_urban&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
@@ -158,16 +161,52 @@
       <option name="project" value="LOCAL" />
       <updated>1708171305851</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="task complete">
+      <option name="closed" value="true" />
+      <created>1708411182883</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708411182883</updated>
+    </task>
+    <task id="LOCAL-00009" summary="task complete 3">
+      <option name="closed" value="true" />
+      <created>1708411227562</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708411227562</updated>
+    </task>
+    <task id="LOCAL-00010" summary="task complete">
+      <option name="closed" value="true" />
+      <created>1708417985033</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708417985034</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <option name="createChangelist" value="false" />
     <option name="createBranch" value="false" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="готово" />
     <MESSAGE value=" Пройти встроенную обучалку в пайчарм" />
     <MESSAGE value="Praktice game nim" />
     <MESSAGE value="добавил новую домашку по теме пространство имен" />
+    <MESSAGE value="task complete 3" />
     <MESSAGE value="task complete" />
     <option name="LAST_COMMIT_MESSAGE" value="task complete" />
   </component>
