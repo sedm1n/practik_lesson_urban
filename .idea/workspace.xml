@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb7faaa0-745f-4948-a64d-294cf3814e3e" name="Changes" comment="task complete">
+      <change afterPath="$PROJECT_DIR$/test_postgresql.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="c83d6a49-dce2-4eed-9d63-8c6dcedc2312" name=" Пройти встроенную обучалку в пайчарм" comment="task complete" />
@@ -51,30 +52,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Maximum_Product.executor&quot;: &quot;Run&quot;,
-    &quot;Python.class2_hub_stud.executor&quot;: &quot;Run&quot;,
-    &quot;Python.class3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.class3PhS.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dz_class_and_instance_attr.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dz_oop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dz_oop_specmetod.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dz_operator_overloading.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_oop_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main_classPH.executor&quot;: &quot;Run&quot;,
-    &quot;Python.name_space2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.nim_engine.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice_game_nim.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice_oop_wallet.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/alesksei/PycharmProjects/practik_lesson_urban&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Maximum_Product.executor": "Run",
+    "Python.class2_hub_stud.executor": "Run",
+    "Python.class3.executor": "Run",
+    "Python.class3PhS.executor": "Run",
+    "Python.dz_class_and_instance_attr.executor": "Run",
+    "Python.dz_nasledovanie.executor": "Run",
+    "Python.dz_oop.executor": "Run",
+    "Python.dz_oop_specmetod.executor": "Run",
+    "Python.dz_operator_overloading.executor": "Run",
+    "Python.inharitance_class.executor": "Run",
+    "Python.lesson_oop_1.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.main_classPH.executor": "Run",
+    "Python.name_space2.executor": "Run",
+    "Python.nim_engine.executor": "Run",
+    "Python.practice_game_nim.executor": "Run",
+    "Python.practice_oop1.executor": "Run",
+    "Python.practice_oop_wallet.executor": "Run",
+    "Python.practice_parent.executor": "Run",
+    "Python.test_postgresql.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/alesksei/PycharmProjects/practik_lesson_urban",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -185,7 +191,39 @@
       <option name="project" value="LOCAL" />
       <updated>1708417985034</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="task complete">
+      <option name="closed" value="true" />
+      <created>1708680299845</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708680299845</updated>
+    </task>
+    <task id="LOCAL-00012" summary="task complete">
+      <option name="closed" value="true" />
+      <created>1708680320970</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1708680320970</updated>
+    </task>
+    <task id="LOCAL-00013" summary="task complete">
+      <option name="closed" value="true" />
+      <created>1708781774020</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1708781774020</updated>
+    </task>
+    <task id="LOCAL-00014" summary="task complete">
+      <option name="closed" value="true" />
+      <created>1708793973639</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1708793973639</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <option name="createChangelist" value="false" />
     <option name="createBranch" value="false" />
     <servers />
@@ -217,6 +255,11 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/inharitance_class.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
