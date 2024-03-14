@@ -7,16 +7,25 @@
 # Используйте разные фильтры для управления поведением программы
 # при появлении такого предупреждения: always, ignore, error
 import warnings
-warnings.filterwarnings('ignore')
+
 def devide(arr):
 
     for i in arr:
         if i > 1:
             print(8/i)
         else:
-            warnings.warn("Значение делителя близко к 0 ")
+            warnings.warn("Значение делителя близко к 0 ", UserWarning)
         print(i)
 
 
 
+devide((1,2,3,4,0.9))
+
+warnings.simplefilter('error')
+try:
+    devide((1,2,3,4,0.9))
+except UserWarning:
+    print("Юзер варнгинг перехвачен")
+
+warnings.simplefilter('default')
 devide((1,2,3,4,0.9))
