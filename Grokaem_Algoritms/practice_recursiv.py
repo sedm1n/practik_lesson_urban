@@ -1,5 +1,5 @@
 def countdown(i):
-    print(i)
+
     if i <= 0:
         return
     countdown(i - 1)
@@ -25,14 +25,29 @@ def mylen(arr: list):
         return 0
     else:
         i += 1
-        arr.pop()
-        return i + mylen(arr)
+        # arr.pop()
+        return i + mylen(arr[1:])
 
 
 def mymax(arr):
 
-    if mylen(arr)==0:
+    if not arr:
         return 0
+    max_res = mymax(arr[1:])
+
+    if max_res == 0:
+        return arr[0]
     else:
-        if
-        return arr.pop()
+        return arr[0] if arr[0] > max_res else max_res
+
+        return
+
+    mymax(arr)
+
+
+def calclulation_fibonachi(arr):
+
+    if not arr:
+        return None
+    
+    arr[0] arr
