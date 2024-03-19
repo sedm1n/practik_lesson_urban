@@ -5,15 +5,13 @@
 # Используйте оператор yield
 
 
-def get_variants(text: str):
+def all_variants(s):
+    length = len(s)
+    for i in range(1, length + 1):
+        for j in range(length - i + 1):
+            yield s[j:j + i]
 
-    for i in range(len(text)):
-        for y in range(i + 1, len(text) + 1):
 
-            yield text[i:y]
-
-
-var = get_variants('abc')
-
+var = all_variants('abc')
 for val in var:
     print(val)
