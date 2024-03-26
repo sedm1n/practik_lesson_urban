@@ -45,9 +45,22 @@ def mymax(arr):
     mymax(arr)
 
 
-def calclulation_fibonachi(arr):
+def binary_seatch_rec(array, item):
+    if not array:
+        return 0
 
-    if not arr:
-        return None
+    high = len(array)-1
+    mid = high // 2
+    gues = array[mid]
+
+    if gues == item:
+        return gues
+    elif gues > item:
+        return binary_seatch_rec(array[:mid-1], item)
+    elif array[mid] < item:
+        return binary_seatch_rec(array[mid+1:high], item)
+
+
+var = [1,2,3,4,5,6,7,8,9]
+print(binary_seatch_rec(var, 7))
     
-    arr[0] arr

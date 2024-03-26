@@ -15,6 +15,6 @@ def binary_search(array, item):
 
 
 my_list=[]
-{my_list.append(i) for i in range(1, 16)}
+var = {my_list.append(i) for i in range(1, 16)}
 
 print(binary_search(my_list, 7))
