@@ -19,4 +19,3 @@ def divided_by(b): return lambda a: a // b
 print(six(divided_by(two())))
 
 result = divided_by(6)  # здесь мы вызываем divided_by с аргументом 2, и получаем функцию, которая делит на 2
-print(6/4)

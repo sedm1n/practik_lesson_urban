@@ -10,3 +10,7 @@ class Verification:
     def save(self):
         with open('users','a') as r:
             r.write(f"{self.login} : {self.password}\n")
+            
+    
+    def new():
+        pass
